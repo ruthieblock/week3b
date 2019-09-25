@@ -6,7 +6,7 @@
 <!DOCTYPE setlist>
 <Setlist>
 	<Song>
-		<Title>Pink</Title>
+		<Name>Pink</Name>
 		<Artist>Julia Michaels</Artist>
 		<Genre>Pop</Genre>
 		<Year>2017</Year>
@@ -18,19 +18,19 @@
 		<Year>2018</Year>
 	</Song>
 	<Song>
-		<Title>Make It Up to You</Title>
+		<Name>Make It Up to You</Namee>
 		<Artist>Julia Michaels</Artist>
 		<Genre>Alternative/Indie</Genre>
 		<Year>2017</Year>
 	</Song>
 	<Song>
-		<Title>Forget You</Title>
+		<Name>Forget You</Namee>
 		<Artist> CeeLo Green</Artist>
 		<Genre>Funk</Genre>
 		<Year>2010</Year>
 	</Song>
 	<Song>
-		<Title>Priest</Title>
+		<Namee>Priest</Name>
 		<Artist>Julia Michaels</Artist>
 		<Genre>Pop</Genre>
 		<Year>2015</Year>
@@ -42,25 +42,25 @@
 		<Year>2019</Year>
 	</Song>
 	<Song>
-		<Title>What A Time</Title>
+		<Name>What A Time</Name>
 		<Artist>Julia Michaels ft. Rhys Lewis</Artist>
 		<Genre>Indie Pop</Genre>
 		<Year>2019</Year>
 	</Song>
 	<Song>
-		<Title>Issues</Title>
+		<Namee>Issues</Name>
 		<Artist>Julia Michaels</Artist>
 		<Genre> Pop Ballad</Genre>
 		<Year>2017</Year>
 	</Song>
 	<Song>
-		<Title>Worst in You</Title>
+		<Name>Worst in You</Namee>
 		<Artist>Julia Michaels</Artist>
 		<Genre> Country</Genre>
 		<Year>2017</Year>
 	</Song>
 	<Song>
-		<Title>Anxiety</Title>
+		<Name>Anxiety</Name>
 		<Artist>Julia Michaels</Artist>
 		<Genre>Pop</Genre>
 		<Year>2018</Year>
