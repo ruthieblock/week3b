@@ -1,25 +1,23 @@
 Setlist {
-    background-color: #8FA998;
+    background-color: #9E7682;
     width: 100%;
 }
-Song{
-    display: block;
-    color: #CDB2AB;
-    margin-bottom: 35pt;
-    margin-left: 0;
-}
+
 Name{
+    font-style: italic;
     display: block;
-    color: #F786AA;
-    font-size: 20pt;
+    color: #EDCB96;
+    font-size: 40pt;
 }
 Artist{
     display: block;
-    color: #F786AA;
+    color: #F7C4A5;
+    margin-left: 10pt;
     font-size: 20pt;
 }
 Genre, Year {
     display: block;
-    color: #F786AA;
+    line-height: 30px;
+    color: #605770;
     margin-left: 20pt;
 }
