@@ -7,15 +7,15 @@ Song{
     margin-bottom: 30pt;
     margin-left: 0;
 }
-Title {
+Title{
     display: block;
-    color: #ff0000;
+    color: blue;
     font-size: 20pt;
 }
-Artist {
+Artist{
     display: block;
-    color: #0000ff;
-    font-size: 20pt;
+    color: white;
+    font-size: 200pt;
 }
 Genre, Year {
     display: block;
