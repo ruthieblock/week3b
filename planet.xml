@@ -4,36 +4,65 @@
 <?xml-stylesheet type="text/css" href="style9.css"?>
 
 <!DOCTYPE planet>
-<planet>
-
-<ocean>
-<name>Arctic</name>
-<area>13,000</area>
-<depth>1,200</depth>
-</ocean>
-
-<ocean>
-<name>Atlantic</name>
-<area>87,000</area>
-<depth>3,900</depth>
-</ocean>
-
-<ocean>
-<name>Pacific</name>
-<area>180,000</area>
-<depth>4,000</depth>
-</ocean>
-
-<ocean>
-<name>Indian</name>
-<area>75,000</area>
-<depth>3,900</depth>
-</ocean>
-
-<ocean>
-<name>Southern</name>
-<area>20,000</area>
-<depth>4,500</depth>
-</ocean>
-
-</planet>
+<Setlist>
+	<Song>
+		<Title>Pink</Title>
+		<Artist>Julia Michaels</Artist>
+		<Genre>Pop</Genre>
+		<Year>2017</Year>
+	</Song>
+	<Song>
+		<Title>I Miss You</Title>
+		<Artist>Julia Michaels Ft. Clean Bandit</Artist>
+		<Genre>Electric Ballad</Genre>
+		<Year>2018</Year>
+	</Song>
+	<Song>
+		<Title>Make It Up to You</Title>
+		<Artist>Julia Michaels</Artist>
+		<Genre>Alternative/Indie</Genre>
+		<Year>2017</Year>
+	</Song>
+	<Song>
+		<Title>Forget You</Title>
+		<Artist> CeeLo Green</Artist>
+		<Genre>Funk</Genre>
+		<Year>2010</Year>
+	</Song>
+	<Song>
+		<Title>Priest</Title>
+		<Artist>Julia Michaels</Artist>
+		<Genre>Pop</Genre>
+		<Year>2015</Year>
+	</Song>
+	<Song>
+		<Title>Messed Up, Kind of</Title>
+		<Artist>Julia Michaels ft. Role Model</Artist>
+		<Genre>Pop, Lovesong</Genre>
+		<Year>2019</Year>
+	</Song>
+	<Song>
+		<Title>What A Time</Title>
+		<Artist>Julia Michaels ft. Rhys Lewis</Artist>
+		<Genre>Indie Pop</Genre>
+		<Year>2019</Year>
+	</Song>
+	<Song>
+		<Title>Issues</Title>
+		<Artist>Julia Michaels</Artist>
+		<Genre> Pop Ballad</Genre>
+		<Year>2017</Year>
+	</Song>
+	<Song>
+		<Title>Worst in You</Title>
+		<Artist>Julia Michaels</Artist>
+		<Genre> Country</Genre>
+		<Year>2017</Year>
+	</Song>
+	<Song>
+		<Title>Anxiety</Title>
+		<Artist>Julia Michaels</Artist>
+		<Genre>Pop</Genre>
+		<Year>2018</Year>
+	</Song>
+</Setlist>
